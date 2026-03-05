@@ -1,7 +1,7 @@
 # Bike Sales Analysis & Dashboard
 
 **Tools Used:** Excel (Pivot Tables, Formulas, Dashboards, Slicers)  
-**Context:** Diploma Portfolio Project  
+**Context:** Portfolio Project  
 
 ## Project Summary
 
