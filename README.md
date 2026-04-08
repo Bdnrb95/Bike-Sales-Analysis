@@ -20,7 +20,11 @@ Analyzed a bike sales dataset to understand how factors like income, gender, age
 
 ### Dashboard Creation
 - Combined all key visualizations into a single interactive dashboard 
-- Added slicers to filter by income, gender, age group, and commute distance for enhanced stakeholder interactivity  
+- Added slicers to filter by income, gender, age group, and commute distance for enhanced stakeholder interactivity
+
+<p align="center">
+  <img src="images/ExcelSCS.png" width="700">
+</p>
 
 ## Skills Demonstrated
 - Data cleaning and transformation using Excel formulas  
